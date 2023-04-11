@@ -1,0 +1,17 @@
+/node_modules
+/public/hot
+/public/uploads/*
+!/public/uploads/sinImagen.png
+/public/storage
+/app/Classes/xml/*.xml
+/app/Classes/*.xml
+/app/Classes/*.php
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
